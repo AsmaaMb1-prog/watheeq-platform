@@ -1,0 +1,29 @@
+#  Watheeq (وَثيق) – Academic Document Verification Platform
+
+ A secure digital platform designed to verify academic credentials, prevent certificate forgery, and streamline institutional verification workflows.
+
+---
+
+##  About the Project
+**Watheeq** is an advanced digital credential verification system that leverages cryptographic hashing (such as SHA-256) and QR code authentication. The platform is built to compare academic credentials against official institutional records instantly, identifying any discrepancies or fraud attempts.
+
+- **Exhibition & Presentation:** Proudly presented on behalf of Hadhramout University at the official **University Technology Exhibition**, demonstrating its workflow and security impact to the evaluation committee and visitors over three days.
+
+---
+
+##  Key Features & Workflow
+- **Cryptographic Validation:** Utilizes hashing algorithms to ensure certificate integrity and immutability.
+- **QR Code Authentication:** Instant scanning and verification of academic documents against official databases.
+- **Forgery Prevention:** Secures institutional issuing processes and safeguards academic credentials.
+
+---
+
+##  My Role & Contributions
+- **Project Team Member:** Contributed heavily to shaping the project concept, defining the core verification workflow, and designing the system logic to match institutional security requirements Developed in collaboration with @malakmody
+- **Exhibition Representative:** Officially represented Hadhramout University at the technology exhibition, pitching the solution and explaining its architecture to judges and visitors.
+
+---
+
+##  Tech Stack & Tools
+- **Core Concepts:** Cryptographic Hashing, SHA-256, QR Code Integration, Security Protocols.
+- **Development & Presentation:** Designed with a focus on UI/UX principles, system usability, and database reliability.
